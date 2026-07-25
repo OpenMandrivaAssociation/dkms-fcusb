@@ -5,7 +5,7 @@
 Summary: dkms package for %{module} driver
 Name: dkms-%{module}
 Version: %{version}
-Release: %mkrel 6
+Release: 7
 Source0: ftp://ftp.avm.de/cardware/fritzcrd.usb/linux/suse.91/fcusb-suse9.1-3.11-04.tar.bz2
 Source1: dkms-fcusb-use-autoconf-header.patch
 Source2: dkms-fcusb-remove-usb_driver_owner.patch
